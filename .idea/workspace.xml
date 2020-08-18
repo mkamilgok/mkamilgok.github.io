@@ -24,6 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8541767-53cf-4009-aeb5-1c48a12a2f6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/files/MovieSearch.png" beforeDir="false" afterPath="$PROJECT_DIR$/libs/files/MovieSearch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/files/Musica.png" beforeDir="false" afterPath="$PROJECT_DIR$/libs/files/Musica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/files/Terra Mystica.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
